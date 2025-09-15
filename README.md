@@ -43,14 +43,9 @@ With just an uploaded image of your crop, AgriGo’s AI-powered image recognitio
 
 ---
 
-## How to Use
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/kaymen99/AgriGo.git
-cd AgriGo
-```
+
 
 ### Run Locally with Python (v3.8)
 
@@ -110,11 +105,6 @@ The datasets used for this project are sourced from Kaggle:
 ---
 
 ## Contact
+For questions or support, please contact me: [devaki20703@gmail.com](mailto:aymenMir1001@gmail.com)
 
-For questions or support, please contact me: [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com)
 
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
